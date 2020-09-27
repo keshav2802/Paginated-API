@@ -1,0 +1,17 @@
+{
+  "name": "paginated-api",
+  "version": "1.0.0",
+  "description": "A simple pagination functionality applied to a mongodb database with an API",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Keshav Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

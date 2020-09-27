@@ -1,6 +1,6 @@
 # Paginated API
 
-An implementation of a paginated API on a MongoDB database.
+An implementation of a paginated API on a MongoDB database using express.js
 
 # Description
 
